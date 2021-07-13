@@ -1,0 +1,2 @@
+# pages.blogo
+Register
